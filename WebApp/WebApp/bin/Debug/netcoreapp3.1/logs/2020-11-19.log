@@ -1,0 +1,18 @@
+2020-11-19 14:46:38.6378 ERROR Image downloading error.
+Exeption code:	Не найден сетевой путь. : '\\habrastorage.org\getpro\habr\avatars\58b\b18\cc9\58bb18cc940f2ce0aaedcb35d3ea21b8.jpg'
+
+2020-11-19 14:46:38.6378 ERROR Image downloading error.
+Exeption code:	Не найден сетевой путь. : '\\habrastorage.org\getpro\habr\avatars\d72\e53\c01\d72e53c010b280441a7b77bf12cf5484.png'
+
+2020-11-19 14:46:38.7698 ERROR Image downloading error.
+Exeption code:	Не найден сетевой путь. : '\\habrastorage.org\getpro\habr\avatars\1bd\613\fcf\1bd613fcf631260926cbe9eadbdbcd80.jpg'
+
+2020-11-19 14:46:40.0251 ERROR Checking file size error.
+Exeption code:	Could not find file 'C:\Users\Таня\Desktop\Парсер\WebApp\WebApp\Images\d72e53c010b280441a7b77bf12cf5484.png'.
+
+2020-11-19 14:46:40.0277 ERROR Checking file size error.
+Exeption code:	Could not find file 'C:\Users\Таня\Desktop\Парсер\WebApp\WebApp\Images\1bd613fcf631260926cbe9eadbdbcd80.jpg'.
+
+2020-11-19 14:46:40.0277 ERROR Checking file size error.
+Exeption code:	Could not find file 'C:\Users\Таня\Desktop\Парсер\WebApp\WebApp\Images\58bb18cc940f2ce0aaedcb35d3ea21b8.jpg'.
+
